@@ -1,0 +1,12 @@
+Groq LLM Models (Available for Backend API):
+mixtral-8x7b-32768
+llama-3.1-70b-versatile
+llama-3.1-8b-instant
+llama-2-70b-chat
+
+Frontend Models (via Puter Browser Integration):
+x-ai/grok-4-1-fast
+x-ai/grok-3
+
+Note: The application primarily uses Groq Mixtral for backend AI processing
+and Puter's Grok for frontend conversational interactions.
